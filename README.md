@@ -27,21 +27,19 @@
 
 ### 🎓 COHUB - 크리에이터 실시간 클래스 플랫폼
 <img src='https://i.postimg.cc/K1Fkps4G/2024-08-30-1-58-16.png' width="250" alt='2024-08-30-1-58-16'/>
-- 역할: COO, 기획, 디자인, 마케팅, 개발
+- 역할: 개발, 기획, 디자인, 마케팅
 - 기술: 노코드 툴, 디자인 에셋 제작
-- 성과: 2개월 만에 거래액 1,085만원 달성 (650% 성장)
+- 성과: 2개월 만에 거래액 1,000만원 달성 (650% 성장)
 
 ### 💼 다온나 - 크리에이터 커뮤니티 SaaS
-<img src="https://github.com/yourusername/your-repo/raw/main/images/daonna-thumbnail.png" width="300" alt="다온나 Thumbnail">
-
+<img src="https://i.postimg.cc/4mVbdxdB/Group-20-2.png" width="300" alt="다온나 Thumbnail">
 - 역할: 개발, UI/UX 디자인
 - 기술: Bubble.io, 와이어프레임 설계
-- 성과: 25명의 크리에이터 유치, 300만원 거래액 달성
+- 성과: 25명의 크리에이터 유치, 1개월 만에 300만원 거래액 달성
 
 ### ✍️ WRIGHTn (라이튼) - 작가 수익화 글쓰기 플랫폼
 <img src="https://i.postimg.cc/svYVMjmm/2024-05-13-5-23-1.png" width="400" alt="WRIGHTn Thumbnail">
-
-- 역할: 기획, 디자인, 개발
+- 역할: 개발, 기획, 디자인
 - 기술: 노코드 SaaS 개발, UI/UX 디자인
 - 성과: 1주일 만에 143명 작가 가입, 사용자 2,500명 돌파
 
@@ -62,9 +60,7 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="mailto:minjong.kim04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/minjongkim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/minjongkim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:mjkim427@yonsei.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
