@@ -44,7 +44,7 @@
 - 성과: 25명의 크리에이터 유치, 1개월 만에 300만원 거래액 달성
 
 ### ✍️ WRIGHTn (라이튼) - 작가 수익화 글쓰기 플랫폼
-<img src="https://i.postimg.cc/svYVMjmm/2024-05-13-5-23-1.png" width="400" alt="WRIGHTn Thumbnail">
+<img src="https://i.postimg.cc/svYVMjmm/2024-05-13-5-23-1.png" width="300" alt="WRIGHTn Thumbnail">
 
 - 역할: 개발, 기획, 디자인
 
