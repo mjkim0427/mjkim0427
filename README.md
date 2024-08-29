@@ -26,16 +26,22 @@
 ## 🌟 Projects
 
 ### 🎓 COHUB - 크리에이터 실시간 클래스 플랫폼
+<img src="https://github.com/yourusername/your-repo/raw/main/images/cohub-thumbnail.png" width="300" alt="COHUB Thumbnail">
+
 - 역할: COO, 기획, 디자인, 마케팅, 개발
 - 기술: 노코드 툴, 디자인 에셋 제작
 - 성과: 2개월 만에 거래액 1,085만원 달성 (650% 성장)
 
 ### 💼 다온나 - 크리에이터 커뮤니티 SaaS
+<img src="https://github.com/yourusername/your-repo/raw/main/images/daonna-thumbnail.png" width="300" alt="다온나 Thumbnail">
+
 - 역할: 개발, UI/UX 디자인
 - 기술: Bubble.io, 와이어프레임 설계
 - 성과: 25명의 크리에이터 유치, 300만원 거래액 달성
 
 ### ✍️ WRIGHTn (라이튼) - 작가 수익화 글쓰기 플랫폼
+<img src="https://github.com/yourusername/your-repo/raw/main/images/wrightn-thumbnail.png" width="300" alt="WRIGHTn Thumbnail">
+
 - 역할: 기획, 디자인, 개발
 - 기술: 노코드 SaaS 개발, UI/UX 디자인
 - 성과: 1주일 만에 143명 작가 가입, 사용자 2,500명 돌파
