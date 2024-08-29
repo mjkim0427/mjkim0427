@@ -26,7 +26,7 @@
 ## 🌟 Projects
 
 ### 🎓 COHUB - 크리에이터 실시간 클래스 플랫폼
-<img src="https://github.com/yourusername/your-repo/raw/main/images/cohub-thumbnail.png" width="300" alt="COHUB Thumbnail">
+<img src='https://i.postimg.cc/K1Fkps4G/2024-08-30-1-58-16.png' border='0' alt='2024-08-30-1-58-16'/>
 
 - 역할: COO, 기획, 디자인, 마케팅, 개발
 - 기술: 노코드 툴, 디자인 에셋 제작
@@ -40,7 +40,7 @@
 - 성과: 25명의 크리에이터 유치, 300만원 거래액 달성
 
 ### ✍️ WRIGHTn (라이튼) - 작가 수익화 글쓰기 플랫폼
-<img src="https://i.postimg.cc/svYVMjmm/2024-05-13-5-23-1.png" width="300" alt="WRIGHTn Thumbnail">
+<img src="https://i.postimg.cc/svYVMjmm/2024-05-13-5-23-1.png" width="400" alt="WRIGHTn Thumbnail">
 
 - 역할: 기획, 디자인, 개발
 - 기술: 노코드 SaaS 개발, UI/UX 디자인
