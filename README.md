@@ -26,7 +26,7 @@
 ## 🌟 Projects
 
 ### 🎓 COHUB - 크리에이터 실시간 클래스 플랫폼
-<img src='https://i.postimg.cc/K1Fkps4G/2024-08-30-1-58-16.png' border='0' alt='2024-08-30-1-58-16'/>
+<img src='https://i.postimg.cc/K1Fkps4G/2024-08-30-1-58-16.png' width="400" alt='2024-08-30-1-58-16'/>
 
 - 역할: COO, 기획, 디자인, 마케팅, 개발
 - 기술: 노코드 툴, 디자인 에셋 제작
